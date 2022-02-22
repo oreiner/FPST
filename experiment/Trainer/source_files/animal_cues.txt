@@ -1,0 +1,6 @@
+1 0.8 swan.png
+2 0.2 monkey.png
+3 0.7 kangaroo.png
+4 0.3 dolphin.png
+5 0.6 cow.png
+6 0.4 cat.png

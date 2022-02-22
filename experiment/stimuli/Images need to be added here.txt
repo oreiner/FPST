@@ -1,0 +1,6 @@
+Naming system for stimuli:
+obj001bear.png
+obj002cat.png
+obj003dog.png
+etc.
+

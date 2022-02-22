@@ -1,0 +1,7 @@
+Images needed to be added with the following names:
+swan.png
+monkey.png
+kangaroo.png
+dolphin.png
+cow.png
+cat.png
