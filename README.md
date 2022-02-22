@@ -19,8 +19,8 @@ However, our fMRI-settings were supoptimal and while we found the main effects w
 1. After informed consent was obtained, the participants were weighed and measured (including a bioelectrical impedance analysis)
 2. Blood samples were taken and sent for analysis for glucose and insulin.
 3. The participants were taken to computer and a taste-test was conducted:
->> 1. with an on-screen questionnaire for four different milkshake flavours
->> 2. without the on-screen questionnaire for four different neutral tasting solution
+>> * with an on-screen questionnaire for four different milkshake flavours
+>> * without the on-screen questionnaire for four different neutral tasting solution
 4. The participants were trained on the task paradigm with a simulator on the same computer.
 5. The participants were then taken to the MRI-machine and perfomed the task while being scanned
  
