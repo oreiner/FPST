@@ -5,7 +5,7 @@
 
 ## Abstract
 
-> One of the main challenges for global public health in the modern world is the rising prevalence of obesity. Obtaining a better understanding of the dysregulated feeding behaviour that leads to obesity, by investigating the decision making and learning processes underlying it, could advance our capabilities in battling the obesity epidemic. 
+One of the main challenges for global public health in the modern world is the rising prevalence of obesity. Obtaining a better understanding of the dysregulated feeding behaviour that leads to obesity, by investigating the decision making and learning processes underlying it, could advance our capabilities in battling the obesity epidemic. 
 Consequently, our aim in this study was to design and validate an experiment that could evaluate these processes.
 
 To do so, we examined ten healthy participants using a modified version of the "[probabilistic selection task](https://www.science.org/doi/10.1126/science.1102941)" (PST)  - an established behavioural task for evaluating learning behaviour. In the first phase of this task, the participants are presented with pairs of visual cues and are required to select one cue on each trial. Each cue has a different win probability and participants are tasked with identifying the more rewarding options. We modified the paradigm by delivering gustatory stimuli as a replacement for monetary rewards, to assess the effect of nutritional rewards on the learning behaviour. 
