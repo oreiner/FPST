@@ -1,7 +1,7 @@
 # Food Probabilistic Selection Task 
 > ### This study was a decision making experiment performed in an fMRI setting, performed on healthy volunteers and intended to be a pilot for further studies comparing cohorts of obese vs. lean adults.
->> ### For a more in depth review of the motivation, methods and results, see my thesis (To be added later) 
->> ### This study was done as my dissertation project in the [Multimodal Neuroimaging Cologne research group](https://mmni.de/) of the van-Eimeren lab.
+>> #### For a more in depth review of the motivation, methods and results, see my thesis (To be added later) 
+>> #### This study was done as my dissertation project in the [Multimodal Neuroimaging Cologne research group](https://mmni.de/) of the van-Eimeren lab.
 
 ## Abstract
 
