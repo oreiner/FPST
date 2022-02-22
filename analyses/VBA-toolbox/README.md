@@ -1,4 +1,4 @@
-* Note: This is a slightly modified version of the VBA toolbox, mostly of the file demo_QlearningAsymetric.m, to adapt it the formatting of my log files and to the Q-learning model I choose to use.
+* Note: This is a slightly modified version of the VBA toolbox, mostly of the file demo_QlearningAsymetric.m, to adapt it to the formatting of my log files and to the Q-learning model I choose to use.
 
 # VBA toolbox
 
