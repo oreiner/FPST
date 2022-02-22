@@ -12,7 +12,7 @@ To do so, we examined ten healthy participants using a modified version of the "
 We subsequently analysed the behavioural results with computational modelling and combined this with imaging data simultaneously acquired with an functional magnetic resonance imaging (fMRI) multiband sequence.
 
 Results of the experiment showed this setup can indeed be used to perform the PST with gustatory feedback. 
-However, our fMRI-Settings were supoptimal and while we found the main effects we expected in the visual, motor and sensory cortices, we did not detect the neurological activity we expected in the reward system, which was central to our scientific question. We suspect the optimised system could indeed show these effects as well, and thus an optimised system could be used in further studies to improve our understanding of the neurobiological mechanisms of learning that lead to obesity and elucidate the role of food as a distinctive reinforcer. 
+However, our fMRI-settings were supoptimal and while we found the main effects we expected in the visual, motor and sensory cortices, we did not detect the neurological activity we expected in the reward system, which was central to our scientific question. We suspect the optimised system could indeed show these effects as well, and thus an optimised system could be used in further studies to improve our understanding of the neurobiological mechanisms of learning that lead to obesity and elucidate the role of food as a distinctive reinforcer. 
 
 ## Experimental procedure
 
