@@ -1,6 +1,6 @@
 %%===================FOOD REWARD PROBABILISTIC TASK===================
 %Coded by: Omer Reiner
-%Modified code from: B Kuzmanovic; S Thanarajah; A DiFeliceantonio and N Kroemer
+%Modified code snippits from: B Kuzmanovic; S Thanarajah; A DiFeliceantonio and N Kroemer
 %Coded with: Matlab R2017b using Psychtoolbox 3.0.14
 
 %Script has two runs: learning trails / reinforcment learning (with fixed cue pairs and Gustometer Runs) and test trial / choice task (all cue pair permutations, no feedback)
