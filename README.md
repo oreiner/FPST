@@ -1,13 +1,14 @@
 # Food Probabilistic Selection Task 
-> ### Pilot-Study to "16-426 Formation of approach and avoidance behavior in obese adults"
+> ### This study was a decision making experiment performed in an fMRI setting, performed on healthy volunteers and intended to be a pilot for further studies comparing cohorts of obese vs. lean adults.
+> ### For a more in depth review of the motivation, methods and results, see my dissertation (To be added later) 
 
 ## Abstract
 
-> Provide here a general overview of your project.
+> 
 
 ## Motivation
 
-> In this section, explain the questions you want to answer with your experiement, and what are your predictions.
+> 
 
 ### Questions
 
@@ -15,26 +16,23 @@
 
 ## Experimental procedure
 
-* After informed consent was obtained, subjects were weighed and measured (including a bioelectrical impedance analysis)
-* Blood was taken and sent for analysis for glucose and insulin.
-* Subjects were taking to rating computer and a taste-test was conducted:
->>in free form for the neutral solution selection
-
->>with FPST_Ratings.m for milkshake selection (with preintervention setting)   
-* On rating computer, subjects were briefly trained on the task, using FPST_Trainer.m 
-* Syringes and Pumps were set up (also using pump_back.m function) and subject was put into MRI-Machine
-* Subject performed task in fMRI, running FPST.m
-* Subject performed Rating again, this time in MRI (postintervention setting)
+1. After informed consent was obtained, the participants were weighed and measured (including a bioelectrical impedance analysis)
+2. Blood samples were taken and sent for analysis for glucose and insulin.
+3. The participants were taken to computer and a taste-test was conducted:
+>> with an on-screen questionnaire for four different milkshake flavours
+>> without the on-screen questionnaire for four different neutral tasting solution
+4. The participants were trained on the task paradigm with a simulator on the same computer.
+5. The participants were then taken to the MRI-machine and perfomed the task while being scanned
 
 ### Tested population
 
- 30 Healthy subjects with BMI within normal range (future study is planned to compare healthy subjects with obese subjects)
-
+10 healthy participants with normal weight and a general liking of milkshakes.
+ 
 ### Experimental design
 
 The code to run the experiment is [here](experiment/README.md) and collected data are listed [here](data/README.md).
 
 ## Analyses
-
-* Task logfiles were formatted and analyzed for reinforcement learning results: choose A / avoid B trials, high conflict trials, and AB/CD/EF trials in test phase. results were statistically analyzed across subjects
-* fMRI data were analyzed in SPM using the formatted data from the logfiles
+Analyses were performed by running the scripts found [here](experiment/README.md) 
+* Task logfiles were formatted and analysed for accuracy, response time and reinforcement learning using a Q-Learning model results.
+* fMRI data were preprocessed in FSL and SPM, and then analysed for statistical maps of brain activity in SPM using the formatted data from the logfiles
