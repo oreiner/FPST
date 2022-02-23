@@ -5,14 +5,7 @@
 
 ## Abstract
 
-One of the main challenges for global public health in the modern world is the rising prevalence of obesity. Obtaining a better understanding of the dysregulated feeding behaviour that leads to obesity, by investigating the decision making and learning processes underlying it, could advance our capabilities in battling the obesity epidemic. 
-Consequently, our aim in this study was to design and validate an experiment that could evaluate these processes.
-
-To do so, we examined ten healthy participants using a modified version of the "[probabilistic selection task](https://www.science.org/doi/10.1126/science.1102941)" (PST)  - an established behavioural task for evaluating learning behaviour. In the first phase of this task, the participants are presented with pairs of visual cues and are required to select one cue on each trial. Each cue has a different win probability and participants are tasked with identifying the more rewarding options. We modified the paradigm by delivering gustatory stimuli as a replacement for monetary rewards, to assess the effect of nutritional rewards on the learning behaviour. 
-We subsequently analysed the behavioural results with computational modelling and combined this with imaging data simultaneously acquired with an functional magnetic resonance imaging (fMRI) multiband sequence.
-
-Results of the experiment showed this setup can indeed be used to perform the PST with gustatory feedback. 
-However, our fMRI-settings were supoptimal and while we found the main effects we expected in the visual, motor and sensory cortices, we did not detect the neurological activity we expected in the reward system, which was central to our scientific question. We suspect the optimised system could indeed show these effects as well, and thus an optimised system could be used in further studies to improve our understanding of the neurobiological mechanisms of learning that lead to obesity and elucidate the role of food as a distinctive reinforcer. 
+to be added once the thesis is published.
 
 ## Experimental procedure
 
